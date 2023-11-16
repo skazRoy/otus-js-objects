@@ -3,4 +3,4 @@ node_modules
 babel.config.js
 sum.js
 sum.test.js
-src
+
